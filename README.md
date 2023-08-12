@@ -154,6 +154,5 @@ python dispositivo.py
 
 ## Referencias
 
-[Thingsboard](https://thingsboard.io/)
-[Installing ThingsBoard using Docker (Linux or Mac OS)](https://thingsboard.io/docs/user-guide/install/docker/?ubuntuThingsboardQueue=inmemory)
-[CiberSecIOT-Material](https://ensinoiptbr-my.sharepoint.com/personal/lavanco_ipt_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flavanco%5Fipt%5Fbr%2FDocuments%2FAulas%2FSeguran%C3%A7a%20em%20IoT%2FCiberSecIoT%2DMaterial&ga=1)
+- [Thingsboard](https://thingsboard.io/)
+- [Installing ThingsBoard using Docker (Linux or Mac OS)](https://thingsboard.io/docs/user-guide/install/docker/?ubuntuThingsboardQueue=inmemory)
